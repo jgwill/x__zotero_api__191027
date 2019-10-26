@@ -1,0 +1,29 @@
+{
+  "name": "jgwill_zotero_api__191027",
+  "version": "0.0.1",
+  "description": "Master Zotero API to read and create RAAG annotations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgwill/x__zotero_api__191027.git"
+  },
+  "keywords": [
+    "zotero",
+    "jgwill",
+    "x"
+  ],
+  "author": "Guillaume Descoteaux-Isabelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgwill/x__zotero_api__191027/issues"
+  },
+  "homepage": "https://github.com/jgwill/x__zotero_api__191027#readme",
+  "dependencies": {
+    "xml2js": "^0.4.22",
+    "zotero": "^0.4.1",
+    "zotero-api-client": "^0.27.0"
+  }
+}
